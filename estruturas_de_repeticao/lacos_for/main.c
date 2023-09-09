@@ -11,7 +11,7 @@ int main()
         printf("Digite um numero: ");
         scanf("%d", &numero);
 
-        resultado = numero * 3;
+        resultado = numero * 4;
         printf("O numero multiplicado por 3 eh: %d \n", resultado);
     }
     return 0;

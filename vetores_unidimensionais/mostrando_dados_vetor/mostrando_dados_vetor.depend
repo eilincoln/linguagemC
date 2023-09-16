@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1694812260 source:c:\linguagem_c\vetores_unidimensionais\mostrando_dados_vetor\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1694814998 source:c:\linguagem_c\vetores_unidimensionais\exercicio_01\main.c
+	<stdio.h>
+	<stdlib.h>
+

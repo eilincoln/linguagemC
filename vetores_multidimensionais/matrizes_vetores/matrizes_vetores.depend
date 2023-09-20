@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1695132985 source:c:\linguagem_c\vetores_multidimensionais\matrizes_vetores\main.c
+	<stdio.h>
+	<stdlib.h>
+
